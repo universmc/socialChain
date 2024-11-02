@@ -1,7 +1,7 @@
 const express = require('express');
 
 const app = express();
-const port = 51144;
+const port = 5144;
 
 app.get('/', (req, res) => {
   res.send('Hello World!');
