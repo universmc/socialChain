@@ -163,7 +163,7 @@ Ces fichiers sont des outils de gestion de projet.
 -----------------(({ Qi-store})}----------------
 ```
     ╔═════════════════════════════════════════════════════════════════════════════════╗
-    ║[📗 📕 📒]                  🔷   ASCII GRAPH (EXEL)    🔷                        >║   
+    ║[📗 📕 📒]                   🔷   ASCII GRAPH (EXEL)    🔷                        >║   
     ╠═════════════════════════════════════════════════════════════════════════════════╣
     ║                                                                                 ║
     ║                                                                                 ║
@@ -213,7 +213,7 @@ Globalement, ces fonctionnalités pourraient contribuer à la création d'un éc
 Le concept "All for One Pi Coin" pourrait être une initiative visant à encourager la communauté de Pi Network à unir ses forces pour soutenir et promouvoir l'utilisation de la cryptomonnaie Pi dans différents domaines, notamment le commerce électronique, la formation en ligne et les NFT. Voici comment ce concept pourrait être appliqué dans chaque domaine :
 
     ╔═════════════════════════════════════════════════════════════════════════════════╗
-    ║[📗 📕 📒]                🔷   ASCII GRAPH (DIAGRAM)    🔷                       >║   
+    ║[📗 📕 📒]               🔷   ASCII GRAPH (DIAGRAM)    🔷                         >║   
     ╠═════════════════════════════════════════════════════════════════════════════════╣
     ║                                                                                 ║
     ║                                                                                 ║
