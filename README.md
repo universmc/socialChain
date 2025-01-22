@@ -400,4 +400,4 @@ html
   </section>
 </article>
 ```
-Notez que les éléments <article>, <time>, <h1> - <h2>, <p> et <section> ont été utilisés pour structurer l'article. Cette structure permet aux moteurs de recherche et aux navigateurs d'interpréter plus facilement le contenu, tout en améliorant l'expérience utilisateur pour vos visiteurs.
+Notez que les éléments [ARTICLE]<article>, [TIME] <time>,[Titre.h1] <h1> - [Titre.h2]<h2>, <p> et[SECTION] <section> ont été utilisés pour structurer l'article. Cette structure permet aux moteurs de recherche et aux navigateurs d'interpréter plus facilement le contenu, tout en améliorant l'expérience utilisateur pour vos visiteurs.
