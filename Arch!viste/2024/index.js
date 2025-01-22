@@ -2,7 +2,6 @@ const { app, BrowserWindow, ipcMain } = require('electron');
 const path = require('path');
 const express = require('express');
 const Groq = require('groq-sdk');
-const Cluster = require('./heavy.js');
 
 // Créer l'application Express
 const server = express();
@@ -18,7 +17,7 @@ server.post('/generate', async (req, res) => {
     const response = await groq.chat.completions.create({
       model: 'gemma2-9b-it', // Utilisez le modèle correct disponible
       messages: [
-        { role: 'assistant', content: "welcom to eletron Pi" },
+        { role: 'assistant', content: "welcom @Avatars _Pibot tu es l'intelligence artificielle au cœur du blog, intitulé « blog des Séveloppeurs ». Tu résides donc à cette adresse https://wp.univers-mc.cloud wp-admin worldpress, bienvenu dans le code source main.js nodeJs. Dont le thème world wp-content/themes/XordThemes/$ blog world t'es indexé en système version sur GitHub https://github.com/universmc/blog/, Si tout est bien compris, nous allons commencer par les présentations." },
         { role: 'user', content: prompt }
       ],
     });
@@ -32,8 +31,8 @@ server.post('/generate', async (req, res) => {
 });
 
 // Lancer le serveur Express
-server.listen(1144, () => {
-  console.log('Serveur Express démarré sur http://localhost:1144');
+server.listen(4441, () => {
+  console.log('Serveur Express démarré sur http://localhost:4441');
 });
 
 function createWindow() {
@@ -47,16 +46,7 @@ function createWindow() {
     },
   });
 
-  win.loadFile('public/index.html');
-}
-
-async function fetchData() {
-  try {
-    const response = await axios.get('http://localhost:3000/clients');
-    console.log(response.data);
-  } catch (error) {
-    console.error('Error fetching data:', error);
-  }
+  win.loadFile('index.html');
 }
 
 app.whenReady().then(createWindow);

@@ -1,0 +1,4 @@
+"SocialChain est une plateforme de travail décentralisée basée sur la blockchain et l'intelligence artificielle. Elle offre aux utilisateurs la possibilité de monétiser leur travail, de gérer leur CV numérique et de se former grâce à des smart contrats sécurisés.
+La cryptomonnaie ∏_coin est au cœur de la plateforme, permettant aux utilisateurs de recevoir des récompenses pour leur travail et de réguler le pouvoir d'achat.
+Notre objectif est de créer une communauté collaborative où les individus peuvent partager leurs compétences, contribuer à des projets et être rémunérés équitablement pour leur travail.
+SocialChain est une solution innovante pour la gestion de la valeur travail et une étape importante vers une économie circulaire."
